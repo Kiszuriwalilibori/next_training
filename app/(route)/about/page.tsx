@@ -1,4 +1,4 @@
 export default function About() {
-    throw new Error("Eroor testowy");
+    throw new Error("Error testowy");
     return <h2>About</h2>;
 }
