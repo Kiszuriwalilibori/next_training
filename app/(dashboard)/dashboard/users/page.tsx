@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export function Users() {
+export default function Users() {
     return (
         <div>
             <p>Dashboard Users</p>
@@ -21,5 +21,3 @@ export function Users() {
         </div>
     );
 }
-
-export default Users;
