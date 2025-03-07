@@ -1,10 +1,10 @@
 import React from "react";
 
-export const Page = () => {
+export const Analytics = () => {
     return (
         <div>
             <h1>Analytics Page</h1>
         </div>
     );
 };
-export default Page;
+export default Analytics;
