@@ -1,5 +1,5 @@
-export function Analytics() {
+export function Page() {
     return <p>Analytics</p>;
 }
 
-export default Analytics;
+export default Page;
