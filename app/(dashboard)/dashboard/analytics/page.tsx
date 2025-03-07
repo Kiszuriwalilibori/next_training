@@ -1,5 +1,8 @@
 export function Page() {
-    return <p>Analytics</p>;
+    return (
+        <div>
+            <p>Analytics</p>
+        </div>
+    );
 }
-
 export default Page;
